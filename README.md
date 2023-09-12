@@ -18,8 +18,7 @@ Move the `sequences` folder into a new folder (named `homework_0b`) you will mak
 
 6. Even after the removal of the space there are still problems with the files caused by the non-alpha numeric characters (e.g. spaces, \, =). Create a new file for each of the Unicorn and Griffin fasta files that saves all the information from the headers as `{}-headers.txt`. Then create a new cleaned fasta file that retains only the sequence name and removes all the descriptors. Save these new files as `{}_cleaned.fa`. Report the commands you used in the file `clean_headers`.
 
-7. Save all your command history from this homework with:
-```history > homework.log```
+7. Save **all** your command history from this homework with using a modified `history` command (to get all the entries). Name the file `homework.log`
 
 
 For the successful completion of your homework, you should have the following files in your `results` directory you create (inside `unix-folders-master\homework_0b\`) :
